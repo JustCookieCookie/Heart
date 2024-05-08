@@ -136,15 +136,12 @@ class Heart {
     } while (rjad2_3Help < rjad2_3);
 
 
-
-
         } else {
             System.out.println("Число должно быть больше!");
         }
 
     System.out.println();
     } while (1 == 1);
-
 
     }
 }
